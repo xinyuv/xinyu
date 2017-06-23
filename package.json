@@ -1,0 +1,22 @@
+{
+  "name": "xinyu",
+  "version": "1.0.0",
+  "description": "A personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinyuv/xinyu.git"
+  },
+  "author": "Xinyu Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinyuv/xinyu/issues"
+  },
+  "homepage": "https://github.com/xinyuv/xinyu#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
