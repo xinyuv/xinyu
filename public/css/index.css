@@ -1,0 +1,51 @@
+body{
+    font: 15px/1.5 Helvetica;
+    padding: 0;
+    margin: 0;
+    background-color: #ccccff;
+}
+
+/*  global    */
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/*  header  */
+header{
+    background-color: #5c5c8a;
+    color: white;
+    border-bottom: 2px solid #c2c2d6;
+}
+
+header h1{
+    margin: 15px 0;
+}
+
+#title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+header li{
+    display: inline;
+    padding: 0 20px;
+}
+
+header nav{
+    flex: 1;
+}
